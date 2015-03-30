@@ -92,30 +92,75 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* AI in our lives
+
+* AI in fiction
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- The word /Robot/ entered the English language in the 1920 play R.U.R. about factory robots that learn about violence from humans and revolt against their masters.
+- Since then Artificially Intelligent machines have been portrayed countless times in movies and literature
+- In this activity you're going to be looking at the portrayl of AI in fiction, and what ramifications this has on the future of AI research.
+** Learn It - Evil AI
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- 
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- There are many AI technologies currently in use.
-- Some of these include:
-  - Siri
-  - ASIMO
-  - Google self-driving cars
-  - IBM Watson
-  - The Mars Rover
-- But this list is far from exhausitve
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- For this activity you need to produce a presentation on current AI technologies.
-- Your presentation should:
-  1. Cover some AI technologies that are currently in use.
-  2. Detail what problems these AI technologies are currently able to solve.
-  3. Detail what problems these AI technologies are currently not able to solve.
-  4. Conclude as to the effectiveness of the technologies.
-- Your presentation can be in any format you choose - A slide show, poster or video for instance. The choice is yours.
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
