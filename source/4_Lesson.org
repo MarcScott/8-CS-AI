@@ -92,23 +92,53 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-
-* AI in fiction
+* Paperclips
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Learn It
+** Learn It - The first AI
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 - The word /Robot/ entered the English language in the 1920 play R.U.R. about factory robots that learn about violence from humans and revolt against their masters.
-- Since then Artificially Intelligent machines have been portrayed countless times in movies and literature
-- In this activity you're going to be looking at the portrayl of AI in fiction, and what ramifications this has on the future of AI research.
-** Learn It - Evil AI
+- Since then Artificially Intelligent machines have been portrayed countless times in movies and literature, and not often in a good light.
+** Research It - Evil AI
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- Use online resources to look at the following AIs portrayed in fiction.
+  * Skynet from the Terminator movies
+  * HAL 9000 from 2001: A Space Odyssey
+  * GLaDOS from the Portal Game series
+  * Joshua in WarGames
+  * The Machines in the Matrix movies
+** Learn It - The reality?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- 
+- Have a read of[[http://www.bbc.co.uk/news/technology-30290540][ this article]]. There are some very intelligent scientists out there who have genuine concerns about AI.
+- So what are they worried about? One theorised AI that could potentially destroy all humanity is /The Paperclipper/. This is an AI that has been programmed to make paperclips.
+- Read this exert from[[https://medium.com/@LyleCantor/russell-bostrom-and-the-risk-of-ai-45f69c9ee204][ Lyle Cantor's article on /The Paperclipper/.]]
+#+begin_quote
+The year is 2055 and The Gem Manufacturing Company has put you in charge of increasing the efficiency of its paperclip manufacturing operations. One of your hobbies is amateur artificial intelligence research and it just so happens that you figured out how to build a super-human AI just days before you got the commission. Eager to test out your new software, you spend the rest of the day formally defining the concept of a paperclip and then give you new software the following goal, or “utility function” in Bostrom’s parlance: create as many paperclips as possible with the resources available.
+
+You eagerly grant it access to Gem Manufacturing’s automated paperclip production factories and everything starts working out great. The AI discovers new, highly-unexpected ways of rearranging and reprograming existing production equipment. By the end of the week waste has quickly declined, profits risen and when the phone rings you’re sure you’re about to get promoted. But it’s not management calling you, it’s your mother. She’s telling you to turn on the television.
+
+You quickly learn that every automated factory in the world has had its security compromised and they are all churning out paperclips. You rush to into the factories’ central server room and unplug all the computers there. It’s no use, your AI has compromised (and in some cases even honestly rented) several large-scale server farms and is now using a not-insignificant percentage of the worlds computing resources. Around a month later, your AI has gone through the equivalent of several technological revolutions, perfecting a form of nanotechnology it is now using to convert all available matter on earth into paperclips. A decade later, all of our solar system has been turned into paperclips or paperclip production facilities and millions of probes are making their way to nearby stars in search of more matter to turn into paperclips.
+#+end_quote
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- With a partner, play a little game whereby one of you is the programmer that has created /The Paperclipper/ and the other one is the AI.
+- The programmer should try to come up with ways that you could limit the AI, either before switching it on or when you realise it's getting out of hand.
+- The AI should try to come up with ways of ensuring that it continues to make paperclips as quickly and efficiently as possible.
+- Jot down your ideas.
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
