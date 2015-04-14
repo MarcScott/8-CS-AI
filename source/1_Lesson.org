@@ -102,7 +102,7 @@
 :END:
 [[file:https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kempelen_chess1.jpg/562px-Kempelen_chess1.jpg]]
 - In 1770, at Schönbrunn Palace, the world was introduced to the first Artificially Intelligent machine.
-- Called /The Mechanical Turk/ the clockwork machine was able to play chess, and was able to beat all the human opponents pitted against it that day, typically in under half and hour.
+- Called /The Mechanical Turk/ the clockwork machine was able to play chess, and was able to beat all the human opponents pitted against it that day, typically in under half an hour.
 - There was one problem with the /The Mechanical Turk/, it was a *hoax*.
 - Inside the mechanism was space for a human to sit, and from where he could operate the machinery.
 - It would be over 200 years before a computer was able to convincingly beat a human at chess, when in 1997, Deep Blue beat the World Champion -Gary Kasparov in a 6 game match. 
