@@ -153,6 +153,6 @@ We now ask the question, "What will happen when a machine takes the part of A in
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- From a security point of view, what do you think the ramifications of computers being able to imitate humans succesfully.
+- From a security point of view, what do you think about the ramifications of computers being able to imitate humans succesfully?
 - How might criminals be able to use these technologies?
 - How might security expects be able to counter these technologies?
